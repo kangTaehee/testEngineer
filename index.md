@@ -1,5 +1,7 @@
 # list
 
+* [2020년 정보처리기사 실기 SQL 작성 문제 분석](https://devinus.tistory.com/category/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC%20%EC%8B%A4%EA%B8%B0)
+* [- 2020년 1회차 프로그래밍 문제 (3문제)](https://devinus.tistory.com/36?category=992737)
 * [2022](2022년1회예상기출)
 * [정보처리](정보처리)
 * [정보처리2](정보처리2)
